@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-speech-1353",
+  "private_key_id": "f0aec7328e1952097513cfeee12b4841df480892",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjh4uOAilooNlX\n8TT2gkOyNCxHPGDYccH32ukT9CgbG7Pv+6LkZ6IiiRgvkbLFw4m/2KPG2C358KFw\nC0Sx15fF5inujILmHIBhsaE3+acutt3Nge2vkWsKaqfsFNNzuMuHbLns18Chr/RX\n41MOxMKQVjA3/rEH94R4Zk1DcKQ+yqdlbYt88+d1WoQVg42Ds3XTA5yYDB6+ufR2\n02mA1ynnCHJxr0IPQ7JoibvhIGe6agkTDXTLsFzOAH8nx6zbbPud7x35k3NDoBRV\n7paIHpmIsZF4xxBUpaD5EmKyt5GmktNCahEMYB6borG5fFkXikH8IOgwtLyXRYaH\n5hdB8DClAgMBAAECggEAFcu4JwpUuJRPw6/rjjuYiET57di3U8H9x2pPDJDLU6mi\nlwbkFCtX6eB578Usnb1NO9vFIHip0BlpewSVeFqy6PafeiMSQ1djKSJCybIlvU00\nTPLXWkI4kR/cF9RCxrbHsdolAdNT4nkQSTKMXHiPMiu6q4vvzo8IAgAopid6TMAB\ncsF9hAzfQMUtiqtwC9FRyg7DQz+rKl3Ohkcpy1yVPieeR03/yLNZON2QTqHmt8FS\nFAfe9YyemHzHaYaD7LYIWlOy89dnpyGLUWFwg+UlCnv8mtK4Cu0OF2gFSJNGfn2n\ng9CGsihzNQnSZEsxyiHErdVtWx2YLEfGEcdtZSAWYQKBgQDTwLeaEOx9SqWqyh4G\nrP1G9OoK9YMHEfT+eFYWJh4UrRaRy2RQrAYbdIMJTktQXDh0hWSY0HWtxzgq7wvy\nqgx2A/s1jIaEA9dTU2s9xAlb5j2R3mfLTV/+ZMevcMilojDc3Mylg8aUnLMuSWjQ\nnfpzEdSxoVFDcUfoXdl4mLYDjQKBgQDFszg8WFoy/dL/OQV+p4ucaFOeD5ceWx6s\njByq8FN8XeE33uCN9N12tXYPgGRV5AKTfO00VLAONrfrd9WQMFK+24MJeAfDETWA\nIB7iUzNt4qovaK/H7PN8aFPS697UhPqnXtf9lOASO0dVxgSGeO4Q/FkS0Ylq96DD\nBEltcBBPeQKBgGyM0pIMMu9XoO2YhyPs8jm5u3C6wtyQ/AKnNZpNGAaJZJSAq4Af\nb1ILvFC87ibX36j76MHduzXGdqirung/a/vjtpeQ3jQ2s99nWAZlxFZ0BQQN+y9h\nDuCeUS9Cpdki9+GA3vfKQbZVThVgVHb9RTJP5bTZeYsVO0OHOMB1qHjRAoGAV8S7\n95Zl3PNww9vlw5fQVEzAqpBTT6e2U3YUmBL/jVwES5CH8p294CCpXDJs2PDT7/Rr\nPmtGidjjCAd4aX36jj7XytFd6MzwCoS4EVRMpcEWOtvoBgL9CcMrS51pnMG4oatq\nimqYm59ziPHTOnvffOz7Am7B6horZci2bH5uz0kCgYEArTuVsXp2/yZfWhQzF3FW\nb73aU9n5MJHtEwsFz6tw/QpP69Kz6B42TDdOjy63AlUQ/g/nzfFZXiNLP1alXQkP\ncnPvY2m0hyljHABIf6g5Q4MYixOiKff9k0BhaRS0uFld7BX8sMT3fCPqUCRNc0vb\nTYUYTE6g9ghFiMlgmv+Fr/U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "interviwe-confidence@my-speech-1353.iam.gserviceaccount.com",
+  "client_id": "110280333592876653834",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/interviwe-confidence%40my-speech-1353.iam.gserviceaccount.com"
+}
